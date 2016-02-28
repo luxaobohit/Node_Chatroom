@@ -1,5 +1,5 @@
 {
-  "name": "chat room",
+  "name": "chatroom",
   "version": "0.0.1",
   "author": "luxiaobo",
   "description": "simple chat room",
@@ -9,6 +9,7 @@
     "url": "https://github.com/luxaobohit/Node_Chatroom"
   },
   "dependencies": {
-    "mime": "~1.3.4"
+    "mime": "~1.3.4",
+    "socket.io": "^1.4.5"
   }
 }
